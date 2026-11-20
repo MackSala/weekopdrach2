@@ -459,4 +459,22 @@ strong proberen
 niet dikgedrukt
 
 </details>
+
+<details>
+<summary>20-11-2026 11:42:19 (UTC+01:00) | Run | MackSala | 1 gewijzigde bestanden (+2/−2)</summary>
+
+- **Uitgevoerd door:** MackSala
+- **Branch:** main
+- **Websitebestanden na deze actie:** 3
+- **Vorige opgeslagen versie:** [76ead9ccaf634b5411ba4e2d0c54f8323a3264f3](https://github.com/MackSala/weekopdrach2/commit/76ead9ccaf634b5411ba4e2d0c54f8323a3264f3)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| index.html | Aangepast | 2 | 2 |
+
+**Verwachting voor Run**
+
+nog een keer kleine letters
+
+</details>
 <!-- arhc-weblab:log:end -->
