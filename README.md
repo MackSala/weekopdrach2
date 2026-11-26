@@ -495,4 +495,18 @@ nog een keer kleine letters
 de opdracht afmaken
 
 </details>
+
+<details>
+<summary>26-11-2026 10:35:30 (UTC+01:00) | Opslaan | MackSala | 1 gewijzigde bestanden (+6/−6)</summary>
+
+- **Uitgevoerd door:** MackSala
+- **Branch:** main
+- **Websitebestanden na deze actie:** 3
+- **Vorige opgeslagen versie:** [f0d143585cee9662f5cb1e9692f6c61c2218713b](https://github.com/MackSala/weekopdrach2/commit/f0d143585cee9662f5cb1e9692f6c61c2218713b)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| index.html | Aangepast | 6 | 6 |
+
+</details>
 <!-- arhc-weblab:log:end -->
